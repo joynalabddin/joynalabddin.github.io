@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devjoynal.com/sitemap.xml
